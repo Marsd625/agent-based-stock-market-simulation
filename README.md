@@ -1,5 +1,6 @@
 Copyright (c) 2013, Devon Leigh Marshall
-All rights reserved
+
+All Rights Reserved
 
 agent-based-stock-market-simulation
 ===================================
