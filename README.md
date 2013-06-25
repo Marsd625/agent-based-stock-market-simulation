@@ -22,13 +22,21 @@ Final outputs consist of twelve figures that give a statistical breakdown of man
 The time variable is 'i', and represents one discrete month within the simulation. The choice of months as the unit of time is arbitrary, but it allows for the callibration of variables such as the interest rate and the dividend growth rate to be more realistic. 
 
 Several of the variables are easily adjustable to experiment with market outcomes under different conditons. The variables that should provide the most interesting outcomes are all found in the section labeled "Fixed Variables." These variables will allow you to adjust:
+  
   -Number of agents;
+  
   -Number of time periods over which trading occurs;
+  
   -Discount rate;
+  
   -Maximum and minimum memory lengths of the agent population;
+  
   -Number of trading strategies available;
+  
   -Growth rate of the dividend series;
+  
   -Standard deviation of the dividend series;
+  
   -Risk-free interest rate;
   
 It is likely that many other variables can be adjusted for interesting outcomes, but those under "Fixed Variables" are the only ones I have standardized so as to avoid violating any dependencies. 
