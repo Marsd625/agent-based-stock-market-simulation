@@ -17,7 +17,7 @@ Prior to the start of each period, agents choose between two investing strategie
 
 Each strategy is represented by a 19-element array which is used to build a neural network which then processes a 6-item data set of current market indicators in order to decide the optimal mix of risky and risk-free assets.
 
-Graphical outputs following the completion of the simulation consist of twelve figures that give a statistical breakdown of many key indicators of market movements, agent decision-making, and strategic outcomes. I personally find Figure 8 to be of the most interest as it illustrates crowd behaviors and evolving trading strategies even amongst independant artificially intelligent agents.
+Graphical outputs following the completion of the simulation consist of twelve figures that give a statistical breakdown of many key indicators of market movements, agent decision-making, and strategic outcomes. I personally find Figure 8 to be of the most interest as it illustrates crowd behaviors and evolving trading strategies even amongst independent artificially intelligent agents.
 
 The time variable is 'i', and represents one discrete month within the simulation. The choice of months as the unit of time is arbitrary, but it allows for the callibration of variables such as the interest rate and the dividend growth rate to be more realistic. 
 
